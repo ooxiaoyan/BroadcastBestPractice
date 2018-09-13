@@ -1,3 +1,5 @@
 # BroadcastBestPractice
 Android/chapter5
 实现强制下线功能
+
+用SharedPreferences实现记住密码的功能
